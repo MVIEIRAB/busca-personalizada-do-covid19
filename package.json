@@ -1,0 +1,23 @@
+{
+  "name": "busca-personalizada-covid19",
+  "version": "1.0.0",
+  "description": "Desenvolvi com algumas bibliotecas já existentes do NODE, possibilitando buscar com mais eficiência com linha de comandos, o resultado por pais dos casos do corona-virus",
+  "main": "covid-status.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MVIEIRAB/busca-personalizada-covid19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MVIEIRAB/busca-personalizada-covid19/issues"
+  },
+  "homepage": "https://github.com/MVIEIRAB/busca-personalizada-covid19#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "yargs": "^15.4.1"
+  }
+}
